@@ -1,4 +1,4 @@
-# Hello there 🖐
+# Hello there 👋
   
-I am Murphy,happy to meet you.
+I am Murphy, happy to meet you.
   
